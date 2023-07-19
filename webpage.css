@@ -1,0 +1,24 @@
+header {
+  background: url("https://th.bing.com/th/id/R.cdf863d11af572e21caae307b7770f57?rik=GP1vyVhsGifv3w&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fn0gqA2f.jpg&ehk=NQkYQooTGK9dXGqPTpj3azyT5yHi%2f6lVmG5gS2sS%2fBw%3d&risl=&pid=ImgRaw&r=0");
+  color: orange;
+  
+}
+
+header a {
+  color: orange;
+}
+
+
+
+#demoFont {
+font-family: "Times New Roman", Times, serif;
+font-size: 32px;
+letter-spacing: 1.2px;
+word-spacing: 1.4px;
+color: #FF2F0C;
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
